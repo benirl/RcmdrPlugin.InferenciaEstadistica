@@ -1,2 +1,0 @@
-import(stats,tcltk,tcltk2)
-exportPattern("^[[:alpha:]]+")
